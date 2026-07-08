@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>A selection of research software, tools, and side projects — each links to a
+write-up with figures, code, and results.</p>
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+

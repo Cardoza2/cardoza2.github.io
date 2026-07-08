@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder hero background">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b3a5b"/>
+      <stop offset="0.55" stop-color="#2a6f97"/>
+      <stop offset="1" stop-color="#468faf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <!-- faint wind-turbine silhouettes -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="6" stroke-linecap="round">
+    <g transform="translate(1180 500)">
+      <line x1="0" y1="0" x2="0" y2="300"/>
+      <g transform="rotate(20)">
+        <line x1="0" y1="0" x2="0" y2="-150"/>
+        <line x1="0" y1="0" x2="130" y2="75"/>
+        <line x1="0" y1="0" x2="-130" y2="75"/>
+      </g>
+      <circle cx="0" cy="0" r="10" fill="#ffffff" fill-opacity="0.10" stroke="none"/>
+    </g>
+    <g transform="translate(1380 560) scale(0.7)">
+      <line x1="0" y1="0" x2="0" y2="300"/>
+      <g transform="rotate(-35)">
+        <line x1="0" y1="0" x2="0" y2="-150"/>
+        <line x1="0" y1="0" x2="130" y2="75"/>
+        <line x1="0" y1="0" x2="-130" y2="75"/>
+      </g>
+      <circle cx="0" cy="0" r="10" fill="#ffffff" fill-opacity="0.10" stroke="none"/>
+    </g>
+  </g>
+</svg>

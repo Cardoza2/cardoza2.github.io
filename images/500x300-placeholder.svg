@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300" role="img" aria-label="Project thumbnail placeholder">
+  <rect width="500" height="300" fill="#e2e8ee"/>
+  <rect x="0.5" y="0.5" width="499" height="299" fill="none" stroke="#b9c6d2"/>
+  <text x="250" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#7a8a99">500 × 300 placeholder</text>
+</svg>
