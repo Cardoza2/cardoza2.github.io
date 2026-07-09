@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Adam Cardoza"
-  pronouns         : # example: "she/her"
+  pronouns         : "he/him"
   bio              : "PhD candidate in Mechanical Engineering — aeroelastic analysis, gradient-based design optimization, and deep-learning surrogates."
   location         : "Provo, UT"          # TODO: confirm
   employer         : "Brigham Young University"   # TODO: confirm
-  uri              : "https://cardozaresearch.com"
+  uri              : # "https://cardozaresearch.com"
   email            : "adam.cardoza@byu.edu"
 
   # Academic websites
@@ -37,11 +37,11 @@ author:
   googlescholar    : # TODO: your Google Scholar profile URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # TODO: your ORCID URL, e.g. https://orcid.org/0000-0000-0000-0000
+  orcid            : "https://orcid.org/0009-0006-5342-4028"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Adam-Cardoza"
   scopus           : # URL
   zotero           : # URL
 
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # TODO: your LinkedIn username (the part after /in/)
+  linkedin         : "adamicardoza"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

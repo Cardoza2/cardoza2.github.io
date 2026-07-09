@@ -67,7 +67,7 @@ header:
 
 <div class="landing-intro" markdown="1">
 
-I design aeroelastic analysis software for design optimization. I specialized in using
+I design aeroelastic analysis software for design optimization. I specialize in using
 large-scale gradient-based optimization and deep-learning surrogates. 
 I love food, hiking, dancing, and my family (shoutout to my wife and 2 daughters). 
 
