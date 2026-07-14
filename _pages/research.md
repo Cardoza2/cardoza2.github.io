@@ -13,16 +13,12 @@ large-scale gradient-based optimization and machine learning, with the goal of
 designing turbines that are more cost-effective.
 
 ## Aeroelastic design optimization of wind turbines
+With the increase in energy requirements throughout the world, there is a need for higher energy generation. There are many different avenues to meet this need and it seems prudent to pursue as many viable options as possible, including renewable sources such as wind energy. To competitively meet the energy demand, wind energy must become more cost-effective. 
 
-_One or two paragraphs on the core problem: coupling structural and aerodynamic
-models, the design variables you optimize over, and why it matters (levelized
-cost of energy, blade mass, loads, etc.)._
+Wind turbines are an interesting design problem because of their multi-disciplinary nature. The complex interaction of the physics of aerodynamics and the physics of the structure creates a coupled problem that requires analyzing both simultaneously. Many have done great work incorporating static analysis of both aerodynamics and structures into design optimization, but far fewer have included unsteady analysis, including the effects of fatigue. Unsteady analysis is difficult to accurately conduct and even more difficult to include into a design optimization. One reason it is so difficult to include into an optimization is the amount of time required for each analysis. In a design optimization you often need hundreds, if not thousands of evaluations of your analysis. If an analysis is long, then a design optimization quickly becomes intractable. My work focuses on creating efficient unsteady aerostructural analysis software designed for design optimization. 
 
 ## Gradient computation
-
-_Describe your work on efficient gradient computation — adjoint methods,
-automatic differentiation, coupled-system derivatives — and why accurate,
-scalable gradients are the bottleneck for high-dimensional design._
+Wind turbines require a large number of *design variables* to mathematically describe the design. Gradient-based design optimization is typically a more efficient approach to solving a design problem with many design variables. It comes at the added cost of computing derivatives. In my work, I show how using efficient gradient computation methods such as automatic differentiation, implicit differentiation, and adjoint methods allow for high-dimensional design optimizations that include unsteady effects. 
 
 ## Deep-learning surrogates
 

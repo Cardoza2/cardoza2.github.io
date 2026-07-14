@@ -59,5 +59,5 @@ and the research/CV prose.
 ## Deployment
 
 Pushing to `master` triggers [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml),
-which builds the site and deploys it to GitHub Pages. See `LAUNCH.md` for the
-one-time GitHub Pages + custom-domain setup.
+which builds the site and deploys it to GitHub Pages at
+**https://cardozaresearch.com**.

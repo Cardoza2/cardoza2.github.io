@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Adam Cardoza"
+masthead_title           : "Home"   # brand shown in the top-left nav (site.title still used for SEO/page titles)
 title_separator          : "-"
 name                     : &name "Adam Cardoza"
 description              : &description "Adam Cardoza — PhD candidate in Mechanical Engineering — aeroelastic analysis, gradient-based design optimization, and deep-learning surrogates."

@@ -69,7 +69,7 @@ header:
 
 I design aeroelastic analysis software for design optimization. I specialize in using
 large-scale gradient-based optimization and deep-learning surrogates. 
-I love food, hiking, dancing, and my family (shoutout to my wife and 2 daughters). 
+I love food, hiking, ballroom dancing, and my family (shoutout to my wife and 2 daughters). 
 
 </div>
 
