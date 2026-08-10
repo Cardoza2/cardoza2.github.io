@@ -22,8 +22,7 @@ Wind turbines require a large number of *design variables* to mathematically des
 
 ## Deep-learning surrogates
 
-_Describe your surrogate-modeling work — what quantities you emulate, the
-architectures you use, and how the surrogates plug into the optimization loop._
+Even with the efficient computation of gradients, large-scale design optimizations are longer than timescales useful for business applications (an optimization might take a day or two, whereas having them run in an hour or two is more useful). To address this issue, I am working on developing deep-learning based surrogates that incorporate physical principles into the design. These surrogates run much faster than the original analysis method and are fully gradient compatible. Opposed to traditional surrogate models, because these surrogates are physics-based, they are better at generalization (avoiding errors associated with extrapolation) and interpolation. 
 
 ---
 
