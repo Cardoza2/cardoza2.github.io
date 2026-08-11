@@ -10,7 +10,8 @@ author_profile: true
 <p>A selection of research software, tools, and side projects — each links to a
 write-up with figures, code, and results.</p>
 
-{% for post in site.portfolio %}
+{% assign ordered_portfolio = site.portfolio | sort: 'order' %}
+{% for post in ordered_portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
