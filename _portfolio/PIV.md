@@ -1,11 +1,11 @@
 ---
 title: "PIV.jl"
-excerpt: "A collection of methods for conducting particle image velocimetry using Julia.<br/><img src='/images/imageset_10_dual.gif' alt='PIV velocity field animation'>"
+excerpt: "A collection of methods for conducting particle image velocimetry using Julia.<br/><video src='/images/imageset_10_dual.mp4' autoplay loop muted playsinline style='max-width:100%;'></video>"
 collection: portfolio
 order: 3
 ---
 
-![PIV velocity field animation](/images/imageset_10_dual.gif)
+<video src="/images/imageset_10_dual.mp4" autoplay loop muted playsinline style="max-width:100%;"></video>
 
 A simple PIV processing package in Julia that I wrote for my experimental fluids class. 
 
