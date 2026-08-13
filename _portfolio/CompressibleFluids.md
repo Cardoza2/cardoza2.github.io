@@ -2,7 +2,7 @@
 title: "CompressibleFluids.jl"
 excerpt: "An implementation of compressible fluid dynamics equations found in the text Gas Dynamics 3rd edition by John and Keith."
 collection: portfolio
-order: 5
+order: 50
 ---
 
 <!-- TODO: This is a TEMPLATE. Copy it, rename the file, and write one per project.

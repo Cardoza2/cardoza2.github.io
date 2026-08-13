@@ -2,7 +2,7 @@
 title: "ImagesDLT.jl"
 excerpt: "A simple implementation of DLT for particle tracking across images in Julia."
 collection: portfolio
-order: 4
+order: 40
 ---
 
 <!-- TODO: This is a TEMPLATE. Copy it, rename the file, and write one per project.

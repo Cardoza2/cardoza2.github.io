@@ -2,7 +2,7 @@
 title: "WATT.jl: Wind Aeroelastic Turbine Toolkit"
 excerpt: "A toolkit for nonlinear unsteady aeroelastic modeling of wind turbine blades, specifically designed for derivative computation."
 collection: portfolio
-order: 1
+order: 10
 ---
 
 <!-- TODO: This is a TEMPLATE. Copy it, rename the file, and write one per project.

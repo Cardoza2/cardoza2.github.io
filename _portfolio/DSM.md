@@ -2,7 +2,7 @@
 title: "DynamicStallModels.jl"
 excerpt: "A collection of dynamic stall models."
 collection: portfolio
-order: 2
+order: 20
 ---
 
 <!-- TODO: This is a TEMPLATE. Copy it, rename the file, and write one per project.
